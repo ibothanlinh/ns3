@@ -1,0 +1,4 @@
+Finished experiment at Wed Feb  9 13:20:24 2022
+. Elapsed time: 2385.27 seconds.
+Finished experiment at Sun May 15 20:17:48 2022
+. Elapsed time: 34.916 seconds.

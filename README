@@ -1,0 +1,8 @@
+Note: this code was adapted from ns-3 for a master's thesis. The code will not be supported. but if you want to use it and have questions, contact me and I'll be happy to help where I can.
+
+A few short tips:
+- Working code is on the branch "simulator"
+- Run the build.py file to configure the software
+- The main scenario can be found here: ns-3.26/scratch/lte-mec-handover.cc. The other files are variations on this file, used to run the experiment with multiple settings in parallel.
+- The application files for the various MEC applications can be found here: ns-3.26/src/applications/model/mec-[insert file name here]
+- For details on the system design, see the chapter "Implementation" of my soon-to-be-published thesis, "Optimal Handover in MEC for an Automotive Application"
