@@ -132,7 +132,7 @@ mec3_response = []
 
 for line in mec_result_file:
     args = line.split(',')
-    args_1 = args[1]split('/')
+    args_1 = args[1].split('/')
     if args[0] == "Server response time":
 
         address = args_1[1]
